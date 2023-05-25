@@ -1,6 +1,8 @@
 # mipt food retail review classification
 User Review Classification in Food Retail With Small Amount of Training Data and Many Classes
 
+See .pdf with work description placed in root dir
+ 
 Dataset is placed in scrub dir
 
 Brief notebook contents:
